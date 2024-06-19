@@ -1,13 +1,13 @@
 <h1>Question1</h1>
 <img src="https://github.com/Yogaprasadmk/Terv_Academy_Java_Practice_Question_Answer/assets/120255515/930c8d26-a1d9-4715-8572-de684f18d36c"/>
 
-<h1>Quesion 2/h1>
+<h1>Quesion 2</h1>
 <img src="https://github.com/Yogaprasadmk/Terv_Academy_Java_Practice_Question_Answer/assets/120255515/b0343855-9bdf-425a-855e-58d06ce8fa1e"/>
 
 <h1>Question 3</h1>
 <img src="https://github.com/Yogaprasadmk/Terv_Academy_Java_Practice_Question_Answer/assets/120255515/40210d6a-f3a5-48a3-bff6-22c3477b39fe"/>
 
-<h1>Question 4/h1>
+<h1>Question 4</h1>
 <img src="https://github.com/Yogaprasadmk/Terv_Academy_Java_Practice_Question_Answer/assets/120255515/5e48baac-feef-40da-80cc-ba6799cad861"/>
 
 <h1>Question 5</h1>
