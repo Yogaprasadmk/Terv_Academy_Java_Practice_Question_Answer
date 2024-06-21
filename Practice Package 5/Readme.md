@@ -1,2 +1,21 @@
+<h1>Question 1</h1>
+<img src="https://github.com/Yogaprasadmk/Terv_Academy_Java_Practice_Question_Answer/assets/120255515/6c8d584d-b005-4649-b5f9-fae3558c838c"/>
+<h1>Question 2</h1>
+<img src="https://github.com/Yogaprasadmk/Terv_Academy_Java_Practice_Question_Answer/assets/120255515/ea4ea065-73bc-4a13-a78f-49adad6ba81b"/>
+<h1>Question 3</h1>
+<img src="https://github.com/Yogaprasadmk/Terv_Academy_Java_Practice_Question_Answer/assets/120255515/7438bc28-9c3b-40ee-9b88-5d4923b0bbea"/>
+<h1>Question 4</h1>
+<img src="https://github.com/Yogaprasadmk/Terv_Academy_Java_Practice_Question_Answer/assets/120255515/aa079937-e70a-4b5f-94b8-ee22b8790746"/>
+<h1>Question 5</h1>
+<img src="https://github.com/Yogaprasadmk/Terv_Academy_Java_Practice_Question_Answer/assets/120255515/ad6f34c0-6972-42e6-9642-d89c23e63b50"/>
+<h1>Question 6</h1>
+<img src="https://github.com/Yogaprasadmk/Terv_Academy_Java_Practice_Question_Answer/assets/120255515/7baec9db-9a1a-4c0b-b300-469ad43af3bb"/>
+<h1>Question 7</h1>
+<img src="https://github.com/Yogaprasadmk/Terv_Academy_Java_Practice_Question_Answer/assets/120255515/7c587e39-1106-424f-a42a-5db145326904"/>
+<h1>Question 8</h1>h1>
+<img src="https://github.com/Yogaprasadmk/Terv_Academy_Java_Practice_Question_Answer/assets/120255515/62b670cc-ce51-41a2-bdad-0f833c00d447"/>
 <h1>Question 9</h1>
 <img src="https://github.com/Yogaprasadmk/Terv_Academy_Java_Practice_Question_Answer/assets/120255515/610dffcb-9ed7-4fdc-8349-810d7d6aed85"/>
+
+<h1>Question 10</h1>
+<img src="https://github.com/Yogaprasadmk/Terv_Academy_Java_Practice_Question_Answer/assets/120255515/1331f9cf-6735-4b5c-b6f4-51c9e7e773a0"/>
